@@ -1,0 +1,26 @@
+a=10
+b=12
+c=0
+
+if a and b and c:
+    print("true")
+
+else:
+    print("false")
+
+
+a=10
+b=-10
+c=0
+
+if a>0 or b>0:
+    print("either of the num is greater than 0")
+
+else:
+    print("no num is greater than 0")
+
+if b>0 or c>0:
+    print("no num is greater than 0")
+
+else:
+    print("either of the number is greater than 0")
